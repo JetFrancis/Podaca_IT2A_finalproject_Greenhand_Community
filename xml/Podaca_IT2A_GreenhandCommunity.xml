@@ -22,7 +22,7 @@
 		<!ELEMENT nav6 (CONTACT)>
 		<!ELEMENT CONTACT (tittle, content)>
 		<!ELEMENT nav7 (PROFILE)>
-		<!ELEMENT PROFILE (tittle, content)>
+		<!ELEMENT PROFILE (username,photos,followers,following, content)>
 
 		<!ELEMENT welcomepage (#PCDATA)>
 		<!ELEMENT navigation-bar (#PCDATA)>
@@ -45,10 +45,18 @@
 		<!ELEMENT nav5 (#PCDATA)>
 		<!ELEMENT nav6 (#PCDATA)>
 		<!ELEMENT nav7 (#PCDATA)>
+		
+
 
 
 
 ]>
+<username>Green Warriors</username>
+				<photos>50,215</photos>
+				<followers>996,650</followers>
+				<following>1.5K</following>
+				<content>Works</content>
+				<content>Recent Captures</content>
 
 
 <GreenhandCommunity>
@@ -137,13 +145,12 @@
 
 		<nav7>
 			<PROFILE>
-				<content1></content1>
-				<content2></content2>
-				<content3></content3>
-				<content4></content4>
-				<content5></content5>
-				<content6></content6>
-				<content7></content7>
+				<username>Green Warriors</username>
+				<photos>50,215</photos>
+				<followers>996,650</followers>
+				<following>1.5K</following>
+				<content>Works</content>
+				<content>Recent Captures</content>
 			</PROFILE>
 		</nav7>
 

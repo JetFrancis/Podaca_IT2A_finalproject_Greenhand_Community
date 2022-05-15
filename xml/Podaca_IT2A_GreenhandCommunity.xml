@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE GreenhandCommunity [
+		<!ELEMENT GreenhandCommunity(welcomepage, navigation-bar)>
+		<!ELEMENT welcomepage (navigation1, navigation2)>
+		<!ELEMENT navigation1 (entergreenhandcommunity)>
+		<!ELEMENT entergreenhandcommunity (HOME, ABOUT, TREES, BLOG, TAKE-ACTION, CONTACT, PROFILE)>
+		<!ELEMENT navigation2 (about)>
+		<!ELEMENT about(about1)>
+
+		<!ELEMENT navigation-bar (nav1, nav2, nav3, nav4, nav5, nav6, nav7)>
+		<!ELEMENT nav1 (HOME)>
+		<!ELEMENT HOME (tittle, content)>
+		<!ELEMENT nav2 (ABOUT)>
+		<!ELEMENT ABOUT (tittle, content)>
+		<!ELEMENT nav3 (TREES)>
+		<!ELEMENT TREES (tittle, content)>
+		<!ELEMENT nav4 (BLOG)>
+		<!ELEMENT BLOG (tittle, content)>
+		<!ELEMENT nav5 (TAKE-ACTION)>
+		<!ELEMENT TAKE-ACTION (tittle, content)>
+		<!ELEMENT nav6 (CONTACT)>
+		<!ELEMENT CONTACT (tittle, content)>
+		<!ELEMENT nav7 (PROFILE)>
+		<!ELEMENT PROFILE (tittle, content)>
+
+		<!ELEMENT welcomepage (#PCDATA)>
+		<!ELEMENT navigation-bar (#PCDATA)>
+		<!ELEMENT navigation1 (#PCDATA)>
+		<!ELEMENT navigation2 (#PCDATA)>
+		<!ELEMENT entergreenhandcommunity (#PCDATA)>
+		<!ELEMENT HOME (#PCDATA)>
+		<!ELEMENT ABOUT (#PCDATA)>
+		<!ELEMENT TREES (#PCDATA)>
+		<!ELEMENT BLOG (#PCDATA)>
+		<!ELEMENT TAKE-ACTION (#PCDATA)>
+		<!ELEMENT CONTACT (#PCDATA)>
+		<!ELEMENT PROFILE (#PCDATA)>
+		<!ELEMENT about (#PCDATA)>
+		<!ELEMENT about1 (#PCDATA)>
+		<!ELEMENT nav1 (#PCDATA)>
+		<!ELEMENT nav2 (#PCDATA)>
+		<!ELEMENT nav3 (#PCDATA)>
+		<!ELEMENT nav4 (#PCDATA)>
+		<!ELEMENT nav5 (#PCDATA)>
+		<!ELEMENT nav6 (#PCDATA)>
+		<!ELEMENT nav7 (#PCDATA)>
+
+
+
+]>
+
+
+<GreenhandCommunity>
+	<welcomepage>
+		<navigation1>
+			<entergreenhandcommunity>
+
+				<nav1>HOME</nav1>
+				<nav2>ABOUT</nav2>
+				<nav3>TREES</nav3>
+				<nav4>BLOG</nav4>
+				<nav5>TAKE ACTION</nav5>
+				<nav6>CONTACT</nav6>
+				<nav7>PROFILE</nav7>
+
+			</entergreenhandcommunity>
+
+
+		<navigation2>
+			<about>
+				<about1>About Us</about1>
+			<about>
+		</navigation2>
+
+	</welcomepage>
+
+	<navigation-bar>
+		<nav1>
+			<HOME>
+				<tittle>You are inside the community</tittle>
+				<content>Our Community</content>
+				<content>Our Global Campsite</content>
+				<content>Our Programs</content>
+				<content>Our Community Member Says</content>
+				<content>Be A Member Of Our Community With Everyone Around The World</content>
+			</HOME>
+		</nav1>
+
+
+		<nav2>
+			<ABOUT>
+				<tittle>About Us</tittle>
+				<content>We are the Environment-Friendly Community</content>
+				<content>Our Community</content>
+				<content>Mission</content>
+				<content>Vision</content>
+			</ABOUT>
+		</nav2>
+
+
+		<nav3>
+			<TREES>
+				<tittle>Plant Trees With Us</tittle>
+				<content>Trees We Plant</content>
+				<content>Where We PLant</content>
+			</TREES>
+		</nav3>
+
+
+		<nav4>
+			<BLOG>
+				<tittle>Our Certificates And Achievements For 2022</tittle>
+				<content>Our Certificates And Achievements For 2022</content>
+				<content>Leave a comment</content>
+			</BLOG>
+		</nav4>
+
+
+		<nav5>
+			<TAKE-ACTION>
+				<tittle>Advocate For Trees</tittle>
+				<content>What You Can Do</content>
+			</TAKE-ACTION>
+		</nav5>
+
+
+		<nav6>
+			<CONTACT>
+				<tittle>Contact Us</tittle>
+				<content>Location</content>
+				<content>Send Message</content>
+			</CONTACT>
+		</nav6>
+
+
+		<nav7>
+			<PROFILE>
+				<content1></content1>
+				<content2></content2>
+				<content3></content3>
+				<content4></content4>
+				<content5></content5>
+				<content6></content6>
+				<content7></content7>
+			</PROFILE>
+		</nav7>
+
+	</navigation-bar>>
+
+</GreenhandCommunity>
+
+

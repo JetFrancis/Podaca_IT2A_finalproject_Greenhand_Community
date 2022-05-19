@@ -22,7 +22,7 @@
 					<li><a href="blog.php">BLOG</a></li>
 					<li><a href="getinvolved.php">TAKE ACTION</a></li>
 					<li><a href="contact.php">CONTACT</a></li>
-					<li><a href="">PROFILE</a></li>
+					<li><a href="founders.php">FOUNDATION</a></li>
 				</ul>
 			</div>
 			<i class="fa fa-bars" onclick="showMenu()"></i>

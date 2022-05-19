@@ -22,14 +22,14 @@
 					<li><a href="blog.php">BLOG</a></li>
 					<li><a href="getinvolved.php">TAKE ACTION</a></li>
 					<li><a href="contact.php">CONTACT</a></li>
-					<li><a href="">PROFILE</a></li>
+					<li><a href="founders.php">FOUNDATION</a></li>
 				</ul>
 			</div>
 			<i class="fa fa-bars" onclick="showMenu()"></i>
 		</nav>
 
 		<h1>Advocate For Trees</h1>
-		<h3>Join with us.</h3>
+		<h3>Join with us!</h3>
 	</section>
 
 
@@ -38,7 +38,7 @@
 	<?php
 	 echo "<section class='about'>";
 	 	
-	 	echo "<h1>What You Can Do</h1>";
+	 	echo "<h1>What You Can Do?</h1>";
 	 	echo"<p>To fulfill our goals, we plant trees, engage thousands of volunteers of all ages in tree planting and care, provide year-round continuing education courses, monitor the nation's forest, develop interactive online tree tools and work with elected officials, developers, and community groups to protect and care for existing trees and to encourage the addition of new ones. Thus, we need your green hand.</p>";
 
 	 		echo"<div class='row'>

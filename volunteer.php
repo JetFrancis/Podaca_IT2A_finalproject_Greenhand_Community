@@ -28,100 +28,82 @@
 			<i class="fa fa-bars" onclick="showMenu()"></i>
 		</nav>
 
-		<h1>Plant Trees With Us</h1>
+		<h1>We Makes The Foundation!</h1>
 		<br>
 		<br>
-		<a href="trees.php" class="hero-btn">TYPES</a>
-		<a href="locations.php" class="hero-btn">LOCATIONS</a>
-		<a href="plans.php" class="hero-btn">PLANS</a>
-		<a href="trivia.php" class="hero-btn">TRIVIA</a>
+		<a href="founders.php" class="hero-btn">FOUNDERS</a>
+		<a href="volunteer.php" class="hero-btn">VOLUNTEERS</a>
 
 	</section>
-			
-<!--------types of trees----------->
+
+<!--------CAMP----------->
 <?php
-echo"<section class='program'>
-	<p>TYPES</p>
-	<br>
-	<h1>Trees We Plant</h1>
-	<p>Different types of tree species for different places around the world.</p>";
-
-	echo"<div class='row'>
-		<div class='program-col'>
-			<img src='images/mangroves.jpg'>
-			<h4>Mangrove Tree</h4>
-		
-		</div>";
-	echo"<div class='program-col'>
-			<img src='images/oak.jpg'>
-			<h4>Angel Oak Tree</h4>
-			
-		</div>";
-
-	echo"<div class='program-col'>
-			<img src='images/Bamboo.jpg'>
-			<h4>Bamboo Tree</h4>
-			
-		</div>
-	</div>";
-	echo"<div class='row'>
-		<div class='program-col'>
-			<img src='images/aspen.jpg'>
-			<h4>Aspen Tree</h4>
-		
-		</div>";
-	echo"<div class='program-col'>
-			<img src='images/avocado.jpg'>
-			<h4>Avocado Tree</h4>
-			
-		</div>";
-	echo"<div class='program-col'>
-			<img src='images/birch.jpg'>
-			<h4>Birch Tree</h4
-		</div>
-		</div>";
-	echo"</div>
-	<div class='row'>
-		<div class='program-col'>
-			<img src='images/cacao.jpg'>
-			<h4>Cacao Tree</h4>
-
-		</div>";
-	echo"<div class='program-col'>
-			<img src='images/lemon.jpg'>
-			<h4>Lemon Tree</h4>
-			
-		</div>";
-	echo "<div class='program-col'>
-			<img src='images/palm.jpg'>
-			<h4>Palm Tree</h4>
-			
-		</div>
-	</div>";
-	echo"<div class='row'>
-		<div class='program-col'>
-			<img src='images/mahogany.jpg'>
-			<h4>Mahogany Tree</h4>
-		
-		</div>";
-	echo"<div class='program-col'>
-			<img src='images/narra.jpg'>
-			<h4>Narra Tree</h4>
-			
-		</div>";
-	echo"<div class='program-col'>
-			<img src='images/acasia.jpg'>
-			<h4>Acasia Tree</h4>
-		</div>
-	</div>
-
-</section>";
-?>
-
-	
+	 	echo"<section class='camp'>
+	 	<br>";
+	 	echo"<h1>We, Volunteers Around the World</h1>";
+	 	echo"<p>Some of our volunteers are all comes from different countries, and they are willing to help to preserve our 
+	 	environment. One tree can save our entire planet, so plant with us.</p>";
+	 	
+	 		echo"
+	 		<div class='row'>
+		 		<div class='camp-col'>
+		 			<img src='images/volunteer1.jpeg'> 
+		 			<div class='layer'>
+	 					<h3>PHILIPPINES</h3>	</div>
+		 		</div>
+		 		<div class='camp-col'>
+		 			<img src='images/volunteer2.jpeg'> 
+		 			<div class='layer'>
+	 					<h3>SINGAPORE</h3>	</div>
+		 		</div>			
+		  		<div class='camp-col'>
+		 			<img src='images/volunteer3.jpeg'> 
+		 			<div class='layer'>
+	 					<h3>THAILAND</h3>	</div>
+		 		</div>			
+	 		</div>
+	 		
+	 	</div>";
+	 	echo"<div class='row'>
+		 		<div class='camp-col'>
+		 			<img src='images/volunteer4.jpg'> 	
+		 			<div class='layer'>
+	 					<h3>CANADA</h3>	</div>
+		 		</div>
+		 		<div class='camp-col'>
+		 			<img src='images/usavolunteer.png'> 
+		 			<div class='layer'>
+	 					<h3>UAE</h3>	</div>
+		 		</div>			
+		 		<div class='camp-col'>
+		 			<img src='images/usavol.jpg'> 
+		 			<div class='layer'>
+	 					<h3>USA</h3>	</div>
+		 		</div>			
+	 		</div>
+	 		
+	 	</div>";
+	 	echo"<div class='row'>
+	 		 <div class='camp-col'>
+	 			<img src='images/volunteer7.jpeg'>
+	 			<div class='layer'>
+	 					<h3>SPAIN</h3>	</div> 
+	 		</div>	
+	 		<div class='camp-col'>
+		 			<img src='images/malaysiavolunteer.jpg'> 
+		 			<div class='layer'>
+	 					<h3>MALAYSIA</h3>	</div>
+		 		</div>			
+		 		<div class='camp-col'>
+		 			<img src='images/londonvolunteer.jpg'> 
+		 			<div class='layer'>
+	 					<h3>LONDON</h3>	</div>
+		 		</div>
+	 	</div>
+	 </section>";
+	?>
 
 
-</section>
 <!----------Footer---------->
 <section class="footer">
 	<h4>About Us</h4>
@@ -134,7 +116,6 @@ echo"<section class='program'>
 	</div>
 	<p>Greenhand Commmunity <i class="fa fa-flag-o"></i> Founded by IT Brothers</p>
 </section>
-
 
 
 <!-----------------javascript for toggle menu----------------->

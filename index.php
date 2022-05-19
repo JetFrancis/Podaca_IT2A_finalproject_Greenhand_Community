@@ -3,36 +3,47 @@
 <head>
 	<meta name="viewport" content="with=device-width, initial-scale=1.0">
 	<title>Greenhand Community</title>
-	<link rel="icon" type="image/x-icon" href="assets/icon.ico">
+	<link rel="icon" type="image/x-icon" href="#">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body>
-	<section class="headermain">
+
+
+
+
+<!----------THIS IS ONLY A WELCOME PAGE NOT A HOMEPAGE------->
+
+
+<?php
+echo"<body>
+	<section class='headermain'>
 		<nav>
-			<a href="index.php"><img src="images/logo.png"></a>
-			<div class="nav-links" id="navLinks"> 
-				<i class="fa fa-times" onclick="hideMenu()"></i>
+			<a href='index.php'><img src='images/logo.png'></a>
+			<div class='nav-links' id='navLinks'>";
+
+			/*for responsive design only*/
+				echo "<i class='fa fa-times' onclick='hideMenu()'></i>
 				<ul>
-					<li><a href="about-intro.php">ABOUT</a></li>
+					<li><a href='about-intro.php'>ABOUT</a></li>
 				</ul>
 			</div>
-			<i class="fa fa-bars" onclick="showMenu()"></i>
-		</nav>
-<?php
-	echo"<div class='text-box'>";
+			<i class='fa fa-bars' onclick='showMenu()'></i>
+		</nav>'";
+
+		echo"<div class='text-box'>";
 		echo"<h3>Welcome to</h3>";
 		echo"<h1>Environment-Friendly Community</h1>";
 		echo"<p>Earth need a helping hand. We know we can do better with your help.
 		</p>";
 		echo "<a href='home.php' class='hero-btn'>Enter Greenhand Community</a>
 		
-	</div>";
+	</div>
+
+	</section>";
 ?>
-	</section>
 
 
 <!----------Footer---------->

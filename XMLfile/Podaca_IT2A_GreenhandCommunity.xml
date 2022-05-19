@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Greenhand_Community [
+        <!ELEMENT Greenhand_Community (webpage)>
+        <!ELEMENT webpage (id, navpage, title, author, date, content)>
+
+        <!ELEMENT webpage (#PCDATA)>
+        <!ELEMENT id (#PCDATA)>
+        <!ELEMENT navpage (#PCDATA)>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT author (#PCDATA)>
+        <!ELEMENT date (#PCDATA)>
+        <!ELEMENT content (#PCDATA)>
+
+]>
+
+
+
+<Greenhand_Community>
+  <webpage>
+    <id>1652931213</id>
+    <navpage>ABOUT</navpage>
+    <title>About Us</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>We are the Environment-Friendly Community&#13;
+Since 2001, Greenhand Community mission has been to restore, enhance, and protect the forest around the world by the productions, research, and plantation of trees in response to the continuous negative changes on earth.&#13;
+Enter the community website to access more information about us.&#13;
+&#13;
+GET INSIDE</content>
+  </webpage>
+
+  <webpage>
+    <id>1652931258</id>
+    <navpage>HOME</navpage>
+    <title>You are inside the community</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content> Earth need a helping hand. We know we can do better with your help.&#13;
+Plant Trees With Us&#13;
+Our Community&#13;
+To fulfill our goals, we plant trees, engage thousands of volunteers of all ages in tree planting and care, provide year-round continuing education courses, monitor the nation's forest, develop interactive online tree tools and work with elected officials, developers, and community groups to protect and care for existing trees and to encourage the addition of new ones.&#13;
+Our Story&#13;
+We are a Philippine-based community, established in 2001, founded by IT Brothers, committed to restoring, enhancing, and protecting the wildlife on the nation and across nations as well.&#13;
+Our Mission&#13;
+Since 2001, Greenhand Community mission has been to restore, enhance, and protect the forest around the world by the productions, research, and plantation of trees in response to the continuous negative changes on earth.&#13;
+Our Vision&#13;
+A green and clean Earth growing with sustainable resources and with the community members around the world committed in reaching trillions of trees planted on earth by 2035.&#13;
+Our Global Campsite&#13;
+Since 2010, we established camp sites in some places around the world sponsored by various agencies and individual for the benefit of all members of the community. Most popular and used camp today was Vietnam, Canada, and Philippines as they engage more on tree planting activities according to statistics.&#13;
+CANADA&#13;
+VIETNAM&#13;
+PHILIPPINESSee More&#13;
+Our Programs&#13;
+We are delighted to present our worlwide programs since the community was founded. Come and join us soon!&#13;
+Bring Back The Green Program&#13;
+A recent program proposed by the founder of the community this year 2022. It is tree planting activity planned to do every year.&#13;
+One Billion Tree Planting Project&#13;
+The Greenhand Community's Plant a Billion Trees is a major forest restoration program. Our goal is to plant a billion trees across the planet to slow the connected crises of climate change and biodiversity loss. It was already started since 2019 and will continuously do every two years.&#13;
+Plant Five Per One Program&#13;
+Since the pandemic broke out, the youth are encourageed to plant five trees on their sorrounding places. Five trees per one individual is already a great help to earth and its biodicerity.&#13;
+Our Community Member Says&#13;
+We had the green hand that nurture trees on forest across countries and we are ready to serve Earth to bring back its rich resources and health life (by founder). See what other says of what the community offers and proved.&#13;
+It is really important to engage in such activies like this. I enjoy being in the community and I felt always on a good hand. I will keep being in the community and do what I can for the Earth.&#13;
+John Paul Rey&#13;
+Since 2005, I am already a member of this community. I just wanted to say that being on this community is really an opportunity not only for me but for us. Let your helping hand become part of us for Earth. Be with us for the good of all.&#13;
+Imelda Reya&#13;
+Be A Member Of Our Community&#13;
+With Everyone Around The World&#13;
+CONTACT US </content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652931525</id>
+    <navpage>CAMPSITES</navpage>
+    <title>Community Campsites</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>Our Global Campsite&#13;
+Since 2010, we established camp sites in some places around the world sponsored by various agencies and individual for the benefit of all members of the community and some are partnered by different organization.&#13;
+CANADA&#13;
+VIETNAM&#13;
+PHILIPPINES&#13;
+INDONESIA&#13;
+BOTSWANA&#13;
+AUSTRILIA&#13;
+JAPAN&#13;
+CHINA&#13;
+KENYA</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652931574</id>
+    <navpage>ABOUT</navpage>
+    <title>About Us</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>We are the Environment-Friendly Community&#13;
+Since 2001, Greenhand Community mission has been to restore, enhance, and protect the forest around the world by the productions, research, and plantation of trees in response to the continuous negative changes on earth.&#13;
+Our Community&#13;
+To fulfill our goals, we plant trees, engage thousands of volunteers of all ages in tree planting and care, provide year-round continuing education courses, monitor the nation's forest, develop interactive online tree tools and work with elected officials, developers, and community groups to protect and care for existing trees and to encourage the addition of new ones.&#13;
+We are a Philippine-based community, established in 2001, founded by IT Brothers, committed to restoring, enhancing, and protecting the wildlife on the nation and across nations as well.&#13;
+Mission&#13;
+Since 2001, Greenhand Community mission has been to restore, enhance, and protect the forest around the world by the productions, research, and plantation of trees in response to the continuous negative changes on earth.&#13;
+Vision&#13;
+A green and clean Earth growing with sustainable resources and with the community members around the world committed in reaching trillions of trees planted on earth by 2035.</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652931646</id>
+    <navpage>TREES</navpage>
+    <title>Plant Trees With Us</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>TYPES&#13;
+Trees We Plant&#13;
+Different types of tree species for different places around the world.&#13;
+Mangrove Tree&#13;
+Angel Oak Tree&#13;
+Bamboo Tree&#13;
+Aspen Tree&#13;
+Avocado Tree&#13;
+Birch Tree&#13;
+Cacao Tree&#13;
+Lemon Tree&#13;
+Palm Tree&#13;
+Mahogany Tree&#13;
+Narra Tree&#13;
+Acasia Tree</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652931730</id>
+    <navpage>TREES</navpage>
+    <title>Plant Trees With Us</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>LOCATIONS&#13;
+Where We Plants&#13;
+Since 2005, we planted to various places from local to abroad. There are still places that lacks of trees, below are some of them.&#13;
+Lam Dong, Vietnam&#13;
+Bohol, Philippines&#13;
+Sumatra, Indonesia&#13;
+Daintree, Austrilia&#13;
+Central Luzon, Philippines&#13;
+Quebec, Canada</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652931767</id>
+    <navpage>TREES</navpage>
+    <title>Plant Trees With Us</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>PLANS&#13;
+We want to plant more trees!&#13;
+Calculating backward from the long-term environmental vision, Greenhand Community have set 2030 as a milestone for achieving the vision. We formulate concrete targets and plans as the Endless Green Program (EGP) nearly every three years in accord with the period of a mediumterm management plan to promote it. In the EGP, we identify “four environmental themes (social issues), which are of much interest to stakeholders and closely related to our business, and we work on them at three phases: procurement; business activities; and products and services. This is only a sample plans got from https://www.daiwahouse.com/English/sustainable/eco/egp/.&#13;
+Establishing targets through 'backcasting'&#13;
+In identifying the targets for our four themes introduced above, we applied the technique of 'backcasting' for the Long-Term Environmental Vision we formulated as our objective for 2055, when Daiwa House Industry will mark its 100th anniversary. We have identified the period from 2025 to 2040 as our milestones, and have indicated the levels to be attained after three years (daiwahouse.com).&#13;
+Endless Green Program&#13;
+In the Endless Green Program 2022, which expands the scope of application to all the Group companies including overseas ones, we are going to accelerate integrated environmental management within our community and globally based on the life cycle approach to ensure that corporate profitability can coexist with environmental sustainability. In particular, we place emphasis on the carbonfree initiative, which is raised as one of the policies in our 6th Medium-Term Management Plan (daiwahouse.com).&#13;
+Key policies of Endless Green Program 2022&#13;
+1. Promoting “carbon-free” in the fields of products and business activities&#13;
+2. Promoting win-win cooperation for reducing environmental risks in supply chains&#13;
+3. Promoting the development and dissemination of environmentally conscious products and services for boosting business competitiveness&#13;
+4. Advancing strategic eco communication for improving environmental brand.&#13;
+5. Enhancing integrated environmental management within the Group and globally for advancing environmental management</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652931820</id>
+    <navpage>TREES</navpage>
+    <title>Plant Trees With Us</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>TRIVIA&#13;
+Trivia To Share&#13;
+Different trivia from different trees we mostly plant.&#13;
+Did you know that Mangroves helps our ecosystem?&#13;
+Mangroves’ roots, trunks and canopy can reduce around 60% the force of oncoming waves. Mangroves can also provide adaptive defences for sea level rise: They produce and accumulate organic matter, and trap and retain mineral sediment. They also host a variety of species, offering nutrients to the marine food web for endangered mammals, reptiles, amphibians and birds, and providing spawning grounds for fish and shellfish.&#13;
+Why is it called Angel Oak Tree? And where is located the oldest angel oak tree in the world?&#13;
+The oak derives its name from the estate of Justus Angel and his wife, Martha Waight Tucker Angel. Local folklore tells stories of ghosts of former enslaved people appearing as angels around the tree. The Angel Oak happens to be one of the oldest trees east of the Mississippi River. The exact age of the tree is up for debate, but many estimate it to be around 15,000 years old! Its strong branches have miraculously survived everything from floods to a category five hurricane.&#13;
+Why bamboo are so special?&#13;
+Bamboo releases 35% more oxygen than hardwood forests of equivalent sizes. Virtually every part of the bamboo plant can be used, and bamboo harvesting results in very low levels of waste. Bamboo does not require the use of pesticides or artificial fertilizers to grow.&#13;
+What is interesting facts about ASPEN TREE?&#13;
+Aspen can grow from 49 to 98 feet in height, depending on the species. It usually grows to the height of 65 feet. Aspen has green, round or oval leaves that are serrated on the edges. Color of the leaves changes from green to golden yellow during the autumn. Aspen produces cylindrically-shaped clusters of flowers called catkins. Aspen blooms during March and April. Flowers can be seen on the tree before first leaves appear.&#13;
+&#13;
+&#13;
+Avocados much more nutritious than other fruits.&#13;
+Avocados have higher levels of potassium than bananas. In fact, the levels are almost double-a single avocado contains 975 milligrams of potassium, compared to 487 milligrams in a banana. Researchers found that eating an avocado daily can improve LDL cholesterol levels (that’s the bad cholesterol) in people who struggle with obesity or are overweight.&#13;
+Satisfying facts about Birch Tree&#13;
+Birch is deciduous tree that belongs to the family Betulaceae. There are around 60 different species of birch that grow in temperate climate around the world. Birch requires well-drained soil, enough moisture and direct sunlight for the proper growth. It usually grows near the lakes and rivers. Birch is known as pioneer species because it easily populates habitats destroyed by fire. This plant is mainly cultivated because of its ornamental morphology and high-quality wood. Out of 60 birch species, 11 are listed as endangered mainly due to habitat destruction and various fungal diseases.&#13;
+&#13;
+What satisfying facts about the Cacao Tree?&#13;
+The cacao tree is a small tree originally grown in tropical South America. It only grows to 4 to 8 meters in height. Its seeds are called cocoa and are used to produce cocoa butter, chocolate drinks, and chocolate. Now the trees are grown in plantations in many tropical countries. Cacao trees are grown commercially to grow raw material, which, in turn, goes towards the production of various goods.&#13;
+Why Lemons brings nutritious elements in the human body?&#13;
+Lemon is an evergreen plant that belongs to the family Rutaceae. It originates from Asia, but it can be found in tropical and sub-tropical regions throughout the world today. Lemon is important part of human diet, but it has numerous other, equally valuable properties. Lemon is best known as a rich source of vitamin C. Other than that, lemon contains valuable minerals such as potassium, zinc, calcium and magnesium.&#13;
+Palm Tree&#13;
+Palm tree grows only in the tropical climate. This plant live on the sandy soil, requires a lot of sunlight and regular rainfalls. Palm tree does not tolerate low temperatures and low percent of humidity. Cultivated plants are prone to insect attacks which can decrease production of fruit worth of hundreds of million dollars. Palms is important part of human diet because it contains valuable vitamins and minerals.</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652932135</id>
+    <navpage>INDEX</navpage>
+    <title>Welcome to Environment-Friendly Community</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>Earth need a helping hand. We know we can do better with your help.&#13;
+&#13;
+Enter Greenhand Community&#13;
+About Us&#13;
+We are a Philippine-based community, established in 2001 committed to restoring, enhancing,&#13;
+and protecting the wildlife on our nation and across nations as well. Join us!</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652932368</id>
+    <navpage>BLOG</navpage>
+    <title>Our Certificates And Achievements For 2022</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>Our Certificates And Achievements For 2022&#13;
+It has been a pleasure to te community to recieve certifications, partnership, and sponsors from the activities that this community doing since 2001 when it was founded. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#13;
+&#13;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#13;
+&#13;
+Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur&#13;
+&#13;
+We are thakful that this community was founded because of its various achievements so far.&#13;
+&#13;
+Leave a comment&#13;
+Enter Name&#13;
+ &#13;
+Enter Email&#13;
+ &#13;
+Your comment&#13;
+ POST COMMENT</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652932422</id>
+    <navpage>TAKE ACTION</navpage>
+    <title>Advocate For Trees</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>Join with us!&#13;
+What You Can Do?&#13;
+To fulfill our goals, we plant trees, engage thousands of volunteers of all ages in tree planting and care, provide year-round continuing education courses, monitor the nation's forest, develop interactive online tree tools and work with elected officials, developers, and community groups to protect and care for existing trees and to encourage the addition of new ones. Thus, we need your green hand.&#13;
+Advocay Workshop&#13;
+Attend our workshop and widen your knowledge about the community and its advocacies.&#13;
+Public Comments&#13;
+Paricipate in the developer's design process by submitting comments.&#13;
+What We Ask For&#13;
+Inspire other people.&#13;
+Feel free to contact us anytime, you are always welcome to our community.&#13;
+Contact Us</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652932672</id>
+    <navpage>ERROR</navpage>
+    <title>Sorry, Still Unavailable</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>Developers are further developing this website for better service. Immediate announcement&#13;
+will be done after the development.</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652932743</id>
+    <navpage>CONTACT</navpage>
+    <title>Contact Us</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>ABC Street, XZY Building&#13;
+Santa Cruz, Marinduque&#13;
+&#13;
++63 9277409741&#13;
+Monday to Saturday, 8AM to 5PM&#13;
+&#13;
+itbrothers@gmail.com&#13;
+Email us your query&#13;
+&#13;
+Enter your name&#13;
+ &#13;
+Enter your email address&#13;
+ &#13;
+Enter your subject&#13;
+ &#13;
+Message&#13;
+ Send Message</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652932901</id>
+    <navpage>FOUNDATION</navpage>
+    <title>We Makes The Foundation!</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>Your Are One Of Us&#13;
+To fulfill our goals, we plant trees, engage thousands of volunteers of all ages in tree planting and care, provide year-round continuing education courses, monitor the nation's forest, develop interactive online tree tools and work with elected officials, developers, and community groups to protect and care for existing trees and to encourage the addition of new ones. Thus, we need your green hand.&#13;
+&#13;
+The IT Brothers&#13;
+Community Founders&#13;
+The IT Brothers are the founder of the Greenhand Community.&#13;
+They are:&#13;
+&#13;
+Jet Francis Q. Podaca&#13;
+Before he founded the Greenhand Community along with Mark Vincent Leaño, he graduated a computer-related course but he mastered the environment-related course first in both national and international universities and become a volunteer of various environment-friendly organization in his country, the Philippines. He is the youngest son of Monching Podaca, an Environment Expert and Mary Ann Podaca, a Business Entrepreneur. He was born on October 01 and he is now 25 years-old where almost his past 10 years was spent for the community, the Greenhand Community today.&#13;
+Now, he is now master in both computers and environment though took more experiences on being an environmentalist, or as the founder of the Greenhand Community. He loves more being in the community he founded along with his colleagues. He acts as the head of the community as facilitates and leads the organization to fulfill their long-term goals.&#13;
+&#13;
+Mark Vincent Leaño&#13;
+Founder He is also one of the founders of Greenhand Community, a longtime friend of Jet Francis Podaca. He is also a graduate of a computer-related course yet despite of being in that area of expertise, he mastered the environment-related course in the same universities as Jet Francis Podaca, the one who inspired him to be an environmentalist and be one of the founder. He is from a wealthy family but chosen to give a greenhand service to the community. He is an industrious man who also have other works other than being one of the founder. He is the son of Mhay Leaño and Alberto Leaño who are both environmental engineers. He was born on June 02 and he is now 24 years old, a young founder who spent years in giving service as his co-founder.
+Now, he's still working as one of the founder applying his wisdom from his areas of expertise. He also acts as the planner of the community as he composed several plans and programs to fulfill the goals of the Greenhand Community.</content>
+  </webpage>
+
+
+  <webpage>
+    <id>1652932931</id>
+    <navpage>FOUNDATION</navpage>
+    <title>We, Volunteers Around the World</title>
+    <author>Greenhand Community</author>
+    <date>May/19/2022</date>
+    <content>Some of our volunteers are all comes from different countries, and they are willing to help to preserve our environment. One tree can save our entire planet, so plant with us.&#13;
+&#13;
+PHILIPPINES&#13;
+SINGAPORE&#13;
+THAILAND&#13;
+CANADA&#13;
+UAE&#13;
+USA&#13;
+SPAIN&#13;
+MALAYSIA&#13;
+LONDON</content>
+  </webpage>
+
+  
+</Greenhand_Community>
